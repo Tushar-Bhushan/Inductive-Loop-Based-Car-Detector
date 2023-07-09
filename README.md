@@ -1,4 +1,6 @@
 # Smart-Parking
+![image](https://github.com/Tushar-Bhushan/Smart-Parking/assets/108873488/1e2fbbb9-412a-4d56-a232-ce676a171563)
+
 The project aims to develop a smart parking system that utilizes inductive loops and
 IoT technology to optimize parking availability and improve user convenience. The
 system comprises several components, including an Inductive Loop detector, Colpitts
@@ -17,3 +19,5 @@ deflection of up to 20KHz. The frequency changes are then measured by an Arduino
 Nano board, which sends the parking status to an ESP32 board for communication
 with the cloud server and updates parking availability in real-time. Overall, our smart
 parking system offers a scalable and efficient solution to parking management problems.
+
+![image](https://github.com/Tushar-Bhushan/Smart-Parking/assets/108873488/7439ce67-5701-4b53-861b-dabada791f29)
