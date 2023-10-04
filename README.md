@@ -1,4 +1,4 @@
-# Smart-Parking
+# Inductive Loop-Based Car Detector
 ![image](https://github.com/Tushar-Bhushan/Smart-Parking/assets/108873488/1e2fbbb9-412a-4d56-a232-ce676a171563)
 
 The project aims to develop a smart parking system that utilizes inductive loops and
